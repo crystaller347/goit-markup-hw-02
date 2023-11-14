@@ -24,7 +24,7 @@ button {
 
 .logo {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -167,10 +167,6 @@ button {
 
 .footer-section {
   background-color: #2e2f42;
-}
-
-.footer-logo {
-  color: #f4f4fd;
 }
 
 .footer-text {
